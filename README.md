@@ -15,6 +15,7 @@ The following are the high level features of Advertising Manager:
 * Integrate with Open Identifier for user ID mapping purposes
 * Dynamically set floor prices depending on demand for inventory
 * Ad products that are integrated in the publisher page/app, that are designed for high engagement/viewability
+* Simple adserving functionality - banner rotation and weighting
 
 ## Integrations
 
